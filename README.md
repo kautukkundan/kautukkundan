@@ -1,4 +1,4 @@
-### Hi there, I am developer 👋
+### Hi there, I am a developer 👋
 ```
                              \\\\\\\
                             \\\\\\\\\\\\
